@@ -31,7 +31,7 @@ for loading and saving the dictionary from/to a file.
   a given string is a valid word or prefix.
 > **Trie visualization:** https://www.cs.usfca.edu/~galles/visualization/Trie.html
 # Part B: Boggle Solver
-### **Basic_Boggle_Solver.cpp**
+### **solve_boggle.cpp**
 The Basic_Boggle_Solver.cpp file provides a basic Boggle Solver framework 
 to test and develop the Boggle solving algorithm.
 ### **Boggle Solver Class**
